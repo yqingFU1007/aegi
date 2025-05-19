@@ -169,7 +169,7 @@ deepseek_client = OpenAI(
 )
 
 deepseek_client_multi = OpenAI(
-    base_url='https://api.deepseek.com',
+    base_url='BASE_URL_DEEPSEEK',
     api_key='sk-xxxxxxxxx'
 )
 
